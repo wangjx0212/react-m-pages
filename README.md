@@ -10,5 +10,5 @@
 
 # 项目目录
 
-![tree](https://github.com/wangjx0212/GitImage/blob/master/Image/react-m-pages-tree.jpg ''tree'')
+!['tree'](https://raw.githubusercontent.com/wangjx0212/GitImage/master/Image/react-m-pages-tree.jpg )
 
