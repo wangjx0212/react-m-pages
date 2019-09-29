@@ -9,6 +9,7 @@
     "devBuildHtml": "node config/webpack/webpack.devBuildHtml.conf.js",
     "devNew": "npm run entry && npm run devBuildHtml",
     "p": "cross-env BABEL_ENV=production && webpack --progress --colors --config config/webpack/webpack.prod.conf.js",
+    
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
